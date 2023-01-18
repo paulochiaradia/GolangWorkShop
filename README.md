@@ -1,0 +1,2 @@
+# GolangWorkShop
+Studying the golang
